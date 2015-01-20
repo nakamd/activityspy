@@ -1,0 +1,40 @@
+01-19 21:01:21.098    2314-2314/nakamd.washington.edu.activityspy I/art﹕ Not late-enabling -Xcheck:jni (already on)
+01-19 21:01:21.268    2314-2314/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Create event fired
+01-19 21:01:21.270    2314-2314/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Start event fired
+01-19 21:01:21.271    2314-2314/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Resume event fired
+01-19 21:01:21.294    2314-2330/nakamd.washington.edu.activityspy D/OpenGLRenderer﹕ Render dirty regions requested: true
+01-19 21:01:21.295    2314-2314/nakamd.washington.edu.activityspy D/﹕ HostConnection::get() New Host Connection established 0xa6c3f570, tid 2314
+01-19 21:01:21.300    2314-2314/nakamd.washington.edu.activityspy D/Atlas﹕ Validating map...
+01-19 21:01:21.350    2314-2330/nakamd.washington.edu.activityspy D/﹕ HostConnection::get() New Host Connection established 0xa6c3f890, tid 2330
+01-19 21:01:21.383    2314-2330/nakamd.washington.edu.activityspy I/OpenGLRenderer﹕ Initialized EGL, version 1.4
+01-19 21:01:21.404    2314-2330/nakamd.washington.edu.activityspy D/OpenGLRenderer﹕ Enabling debug mode 0
+01-19 21:01:21.421    2314-2330/nakamd.washington.edu.activityspy W/EGL_emulation﹕ eglSurfaceAttrib not implemented
+01-19 21:01:21.422    2314-2330/nakamd.washington.edu.activityspy W/OpenGLRenderer﹕ Failed to set EGL_SWAP_BEHAVIOR on surface 0xa6c19f80, error=EGL_SUCCESS
+01-19 21:02:14.934    2314-2314/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Pause event fired
+01-19 21:02:14.982    2314-2314/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Start event fired
+01-19 21:02:16.567    2314-2314/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Restart event fired
+01-19 21:02:16.569    2314-2314/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Start event fired
+01-19 21:02:16.569    2314-2314/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Resume event fired
+01-19 21:02:16.605    2314-2330/nakamd.washington.edu.activityspy W/EGL_emulation﹕ eglSurfaceAttrib not implemented
+01-19 21:02:16.605    2314-2330/nakamd.washington.edu.activityspy W/OpenGLRenderer﹕ Failed to set EGL_SWAP_BEHAVIOR on surface 0xa6c19f80, error=EGL_SUCCESS
+01-19 21:02:19.122    2314-2314/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Pause event fired
+01-19 21:02:19.138    2314-2314/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Start event fired
+01-19 21:02:24.908    2314-2314/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Restart event fired
+01-19 21:02:24.910    2314-2314/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Start event fired
+01-19 21:02:24.910    2314-2314/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Resume event fired
+01-19 21:02:24.946    2314-2330/nakamd.washington.edu.activityspy W/EGL_emulation﹕ eglSurfaceAttrib not implemented
+01-19 21:02:24.946    2314-2330/nakamd.washington.edu.activityspy W/OpenGLRenderer﹕ Failed to set EGL_SWAP_BEHAVIOR on surface 0xa6c19f80, error=EGL_SUCCESS
+01-19 21:02:28.178    2314-2314/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Pause event fired
+01-19 21:02:28.205    2314-2314/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Start event fired
+01-19 21:03:10.022    2368-2368/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Create event fired
+01-19 21:03:10.026    2368-2368/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Start event fired
+01-19 21:03:10.027    2368-2368/nakamd.washington.edu.activityspy I/ActivitySpy﹕ on Resume event fired
+01-19 21:03:10.040    2368-2383/nakamd.washington.edu.activityspy D/OpenGLRenderer﹕ Render dirty regions requested: true
+01-19 21:03:10.041    2368-2368/nakamd.washington.edu.activityspy D/﹕ HostConnection::get() New Host Connection established 0xa6c45570, tid 2368
+01-19 21:03:10.049    2368-2368/nakamd.washington.edu.activityspy D/Atlas﹕ Validating map...
+01-19 21:03:10.100    2368-2383/nakamd.washington.edu.activityspy D/﹕ HostConnection::get() New Host Connection established 0xa6c45b20, tid 2383
+01-19 21:03:10.108    2368-2383/nakamd.washington.edu.activityspy I/OpenGLRenderer﹕ Initialized EGL, version 1.4
+01-19 21:03:10.149    2368-2383/nakamd.washington.edu.activityspy D/OpenGLRenderer﹕ Enabling debug mode 0
+01-19 21:03:10.170    2368-2383/nakamd.washington.edu.activityspy W/EGL_emulation﹕ eglSurfaceAttrib not implemented
+01-19 21:03:10.170    2368-2383/nakamd.washington.edu.activityspy W/OpenGLRenderer﹕ Failed to set EGL_SWAP_BEHAVIOR on surface 0xa6c16e80, error=EGL_SUCCESS
+01-19 21:03:10.331    2368-2380/nakamd.washington.edu.activityspy I/art﹕ Background sticky concurrent mark sweep GC freed 3088(263KB) AllocSpace objects, 0(0B) LOS objects, 26% free, 839KB/1135KB, paused 1.379ms total 114.690ms
